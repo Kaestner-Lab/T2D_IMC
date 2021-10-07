@@ -1,0 +1,37 @@
+  ,Metal Tag,Metal Tag2,Target,Antibody Clone,Stock Concentration,Final Concentration / Dilution,uL to add,full,ilastik
+141,141Pr,Pr141,HLA.ABC,,,,,1,0
+142,142Nd,Nd142,CD57,,,,,1,0
+143,143Nd,Nd143,CD31,,,,,1,0
+144,144Nd,Nd144,CD14,,,,,1,0
+145,145Nd,Nd145,C.peptide,,,,,1,0
+146,146Nd,Nd146,Nestin,,,,,1,0
+147,147Sm,Sm147,Glucagon,,,,,1,0
+148,148Nd,Nd148,pan.Keratin,,,,,1,0
+149,149Sm,Sm149,CD11b,,,,,1,0
+150,150Nd,Nd150,CD44,,,,,1,0
+151,151Eu,Eu151,PDX.1,,,,,1,0
+152,152Sm,Sm152,CD45,,,,,1,1
+153,153Eu,Eu153,CD56,,,,,1,0
+154,154Sm,Sm154,beta.Actin,,,,,1,0
+155,155Gd,Gd155,Foxp3,,,,,1,0
+156,156Gd,Gd156,CD4,,,,,1,0
+158,158Gd,Gd158,NKX6.1,,,,,1,0
+159,159Tb,Tb159,CD68,,,,,1,1
+160,160Gd,Gd160,Somatostatin,,,,,1,0
+161,161Dy,Dy161,CD20,,,,,1,0
+162,162Dy,Dy162,CD8,,,,,1,0
+164,164Dy,Dy164,CD99,,,,,1,1
+165,165Ho,Ho165,CA2,,,,,1,0
+166,166Er,Er166,NFkb,,,,,1,0
+167,167Er,Er167,GnzB,,,,,1,0
+168,168Er,Er168,Ki67,,,,,1,0
+169,169Tm,Tm169,Collagen,,,,,1,0
+170,170Er,Er170,CD3,,,,,1,0
+171,171Yb,Yb171,p16,,,,,1,0
+172,172Yb,Yb172,pS6,,,,,1,0
+173,173Yb,Yb173,CD45RO,,,,,1,0
+174,174Yb,Yb174,HLA.DR,,,,,1,0
+175,175Lu,Lu175,PP,,,,,1,0
+176,176Yb,Yb176,GHRL,,,,,1,0
+191,Ir 191,Ir191,DNA191,,,,,1,0
+193,Ir 193,Ir193,DNA193,,,,,1,1
