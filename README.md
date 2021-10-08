@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/66084077/136574333-58bfbe71-82e2-460c-80b5-fb80d96b202e.png)
+
 # Single-cell analysis of the human pancreas in type 2 diabetes using multi-spectral imaging mass cytometry
 
 Michelle Y.Y. Lee, Klaus Kaestner Lab & Mingyao Li Lab, University of Pennsylvania
@@ -11,4 +13,3 @@ Three main analyses were performed:
 
 Please find the details for each analysis in its respective folder, which contains a guide (word document) and scripts used. 
 
-DOI: 10.5281/zenodo.5557120
