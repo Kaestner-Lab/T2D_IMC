@@ -11,5 +11,5 @@ Three main analyses were performed:
 2) Islet segmentation
 3) Collagen segmentation 
 
-Please find the details for each analysis in its respective folder, which contains a guide (word document) and scripts used. 
+Please find the details for each analysis in its respective folder, which contains a guide (word/pdf document) and scripts used. 
 
