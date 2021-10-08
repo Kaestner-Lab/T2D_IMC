@@ -11,3 +11,4 @@ Three main analyses were performed:
 
 Please find the details for each analysis in its respective folder, which contains a guide (word document) and scripts used. 
 
+DOI: 10.5281/zenodo.5557120
