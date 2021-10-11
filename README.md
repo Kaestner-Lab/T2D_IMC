@@ -3,6 +3,7 @@
 # Single-cell analysis of the human pancreas in type 2 diabetes using multi-spectral imaging mass cytometry
 
 Michelle Y.Y. Lee, Klaus Kaestner Lab & Mingyao Li Lab, University of Pennsylvania
+Minghui Wu, Endocrinology and Gastroenterology Department, The Second Affiliated Hospital of Guangzhou University of Traditional Chinese Medicine
 
 This is the github repo for the analyses reported in "Single-cell analysis of the human pancreas in type 2 diabetes using multi-spectral imaging mass cytometry", published with Wu, M., Lee, M.Y.Y., et al., 2021
 
