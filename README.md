@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/375136919.svg)](https://zenodo.org/badge/latestdoi/375136919)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.5557120.svg)](https://zenodo.org/badge/latestdoi/375136919)
 
 # Single-cell analysis of the human pancreas in type 2 diabetes using multi-spectral imaging mass cytometry
 
